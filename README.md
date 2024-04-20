@@ -4,6 +4,11 @@ So here it is.
 
 The configuration and scripts that made this possible is inspired from [tmux-gruvbox](https://github.com/egel/tmux-gruvbox)
 
+## Look and Feel
+### Dark Medium
+<img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/b4568b0e-a580-4b4e-8a43-27b9a9d33b16" width="1000px"/>
+<img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/0b8283a5-eb11-471e-a96a-c5f4a79b853b" width="1000px"/>
+
 ## Installation
 ### Manual
 Copy and paste the contents in the configuration file into your own `.tmux.conf` file or
