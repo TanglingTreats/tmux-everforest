@@ -9,6 +9,9 @@ The configuration and scripts that made this possible is inspired from [tmux-gru
 <img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/b4568b0e-a580-4b4e-8a43-27b9a9d33b16" width="1000px"/>
 <img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/be36b013-093d-4146-b8c4-8f04db39463d" width="1000px"/>
 
+### Light Medium
+<img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/a0af2dc0-6c3d-441b-9a7c-04108c08dc5f" width="1000px"/>
+<img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/a5798450-5516-4e26-a351-bacaae8542a8" width="1000px"/>
 
 ## Installation
 ### Manual
@@ -29,7 +32,7 @@ set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme. Als
 - [ ] Port over other versions of the theme
   - Light
     - [ ] Soft
-    - [ ] Medium
+    - [x] Medium
     - [ ] Hard
   - Dark
     - [ ] Soft
