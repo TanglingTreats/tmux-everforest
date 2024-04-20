@@ -21,7 +21,7 @@ This methods gives you the most granular customization over what has been commit
 This would require the [plugin manager](https://github.com/tmux-plugins/tpm) to be installed and configured within `.tmux.conf` .
 ```bash
 set -g @plugin 'TanglingTreats/tmux-everforest' # Adds to the list of plugins
-set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme
+set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme. Also the default.
 
 ```
 ## TODO
