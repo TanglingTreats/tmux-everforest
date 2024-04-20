@@ -7,7 +7,8 @@ The configuration and scripts that made this possible is inspired from [tmux-gru
 ## Look and Feel
 ### Dark Medium
 <img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/b4568b0e-a580-4b4e-8a43-27b9a9d33b16" width="1000px"/>
-<img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/0b8283a5-eb11-471e-a96a-c5f4a79b853b" width="1000px"/>
+<img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/be36b013-093d-4146-b8c4-8f04db39463d" width="1000px"/>
+
 
 ## Installation
 ### Manual
