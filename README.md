@@ -1,8 +1,8 @@
 # Everforest Tmux Theme
-Came across the wonderful [Everforest](https://github.com/sainnhe/everforest) theme used in a neovim config and was tempted to use it everywhere but there wasn't a tmux equivalent that I could find.
+Came across the wonderful [Everforest](https://github.com/sainnhe/everforest) theme used in a neovim config and was tempted to use it everywhere but there wasn't a tmux equivalent that I could find and incorporate easily.
 So here it is.
 
-The main versions of theme are configured with hex codes. This is still an ongoing process so further versions and xterm256 color support will come eventuall.
+The main versions of theme are configured with hex codes. This is still an ongoing process so further versions and xterm256 color support will come eventually.
 
 ## Attribution
 The configuration and scripts that made this possible is inspired from [tmux-gruvbox](https://github.com/egel/tmux-gruvbox).
