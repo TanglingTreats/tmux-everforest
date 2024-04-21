@@ -32,7 +32,7 @@ set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme. Als
 
 ```
 ## TODO
-- [ ] Port over other versions of the theme
+- [ ] Port over other versions of Everforest
   - Light
     - [ ] Soft
     - [x] Medium
