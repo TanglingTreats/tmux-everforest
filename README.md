@@ -4,6 +4,14 @@ So here it is.
 
 The main versions of theme are configured with hex codes. This is still an ongoing process so further versions and xterm256 color support will come eventually.
 
+## Dependencies
+The normal versions of the theme requires unicode support from the fonts used in your choice of terminal emulators. If you aren't able to see the following symbols in the terminal
+```
+   
+```
+you can use get [NerdFonts](https://github.com/ryanoasis/nerd-fonts) or [Powerline fonts](https://github.com/powerline/fonts). Alternatively you can use the xterm versions of the theme instead:
+
+
 ## Installation
 ### Manual
 Copy and paste the contents in the configuration file into your own `.tmux.conf` file or
