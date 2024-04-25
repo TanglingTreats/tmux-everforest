@@ -1,5 +1,5 @@
-# Everforest Tmux Theme Plugin
-Came across the wonderful [Everforest](https://github.com/sainnhe/everforest) theme used in a neovim config and was tempted to use it everywhere but there wasn't a tmux equivalent that I could find and incorporate easily.
+# Everforest Tmux Plugin
+Came across the wonderful [Everforest](https://github.com/sainnhe/everforest) colorschemes used in a neovim config and was tempted to use it everywhere but there wasn't a tmux equivalent that I could find and incorporate easily.
 So here it is.
 
 The main versions of theme are configured with hex codes. This is still an ongoing process so further versions and xterm256 color support will come eventually.
