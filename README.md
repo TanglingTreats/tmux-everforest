@@ -25,6 +25,7 @@ This would require the [plugin manager](https://github.com/tmux-plugins/tpm) to 
 ```bash
 set -g @plugin 'TanglingTreats/tmux-everforest' # Adds to the list of plugins
 set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme. Also the default.
+# Add '-xterm' to the back of the themes for xterm256 compatibility
 
 ```
 
