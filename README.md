@@ -38,7 +38,7 @@ set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme. Als
 <img src="https://github.com/TanglingTreats/tmux-everforest/assets/19703014/a5798450-5516-4e26-a351-bacaae8542a8" width="1000px"/>
 
 ## TODO
-- [ ] Port over other versions of Everforest
+- Direct Everforest port
   - Light
     - [ ] Soft
     - [x] Medium
@@ -47,7 +47,15 @@ set -g @tmux-everforest 'dark-medium' # Sets the option to select the theme. Als
     - [ ] Soft
     - [x] Medium
     - [ ] Hard
-- [ ] xterm256-specific colors of every version for compatibility
+- xterm256 version
+  - Light
+    - [ ] Soft
+    - [x] Medium
+    - [ ] Hard
+  - Dark
+    - [ ] Soft
+    - [ ] Medium
+    - [ ] Hard
 
 
 ## Attribution
